@@ -1,6 +1,6 @@
-# Online Ecommerce Website Project in Java ( JSP )
+
 <hr>
-<p align="right">Created and designed by AD Singh
+<p align="right">Created and designed by Manpreet
 <hr>
 In this project, I have tried to build an E-commerce website, which can simulate all the basic controls that an actual shopping website has.
 <br>
